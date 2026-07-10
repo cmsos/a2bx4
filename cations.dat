@@ -1,0 +1,30 @@
+# labels=[packing,tag,formula,pubchem,comname,comment], formula is for cation, comname is for neutral, packing: L=A2SnI4 2D layers, P=perovskite ASnI3, Xn=complicated ASnIn
+L  BC1A    C7H10N    7504     benzylamine               #BZA, phenylmethanamine
+L  BC3A    C9H14N    16259    phenylpropylamine         #PPA
+L  BC4A    C10H16N   83242    phenylbutylamine          #PBA, benzenebutanamine
+L  benzim  C7H7N2    5798     benzimidazole
+L  C2A     C2H8N     6341     ethylamine
+L  C3A     C3H10N    7852     propylamine
+L  C4A     C4H12N    8007     butylamine
+L  C5A     C5H14N    8060     pentylamine
+L  C6A     C6H16N    8102     hexylamine
+L  C8A     C8H20N    8143     octylamine
+L  CHMA    C7H16N    76688    cyclohexanemethylamine
+L  histam  C5H11N3   774      histamine                 #dication
+L  MBA     C8H12N    7408     alpha-methylbenzylamine   #M1C1A, 1-phenethylamine
+L  MPEA    C9H14N    1547949  beta-methylphenethylamine #M2C2A
+L  PEA     C8H12N    1001     phenethylamine            #BC2A
+L  PEA2Br  C8H11BrN  2734091  2-bromophenethylamine
+L  PEA2Cl  C8H11ClN  83117    2-chlorophenethylamine
+L  PEA2F   C8H11FN   643357   2-fluorophenethylamine
+L  PEA2TFM C9H11F3N  69883    2-(trifluoromethyl)phenethylamine
+L  PEA3F   C8H11FN   533928   3-fluorophenethylamine
+L  PEA4F   C8H11FN   4653     4-fluorophenethylamine
+L  PEA4MeO C9H14NO   4657     4-methoxyphenethylamine   #o-methyltyramine
+L  T2EA    C10H12NS2 16095591 bithiophenylethanamine
+L  T3EA    C14H14NS3 0        terthiophenylethanamine
+L  TEA     C6H10NS   116521   thiopheneethanamine       #T1EA
+P  Cs      Cs        5354618  cesium
+P  FA      CH5N2     68047    formamidine
+P  MA      CH6N      6329     methylamine               #C1A
+X3 ImH     C3H5N2    795      imidazole

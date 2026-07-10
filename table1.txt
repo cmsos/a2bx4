@@ -1,0 +1,53 @@
+cation  cnf L  tem met       SG0      inv  cen  rot     a     b  dab  dgam g2                
+str     str c    K str       str      mAo  mAo  mAo    Ao    Ao  mAo   deg str               
+BC1A               ~R2SCAN   p21/b11                 6.07  6.07       -0.8                   
+BC1A        2      ~R2SCAN   Pbca                    6.19  6.19       -2.4                   
+BC1A        2  293 Mao16a    Pbca                    6.28  6.28       -2.8 -x+1/2,-y+1,z+1/2 
+C4A                ~R2SCAN   p21/b11                 6.06  6.06        3.6                   
+C4A         2      ~R2SCAN   Pbca                    6.10  6.10        3.4                   
+C4A         2  125 Zhang22e  Pbca                    6.14  6.14        2.8 -x+1/2,-y+1,z+1/2 
+C4A         2  275 Zhang22e  Pbca                    6.18  6.18       -1.3 -x+1/2,-y+1,z+1/2 
+C5A                ~R2SCAN   p21/b11                 6.05  6.05       -5.1                   
+C5A         1      ~R2SCAN   P21/c                   6.08  6.08       -5.7                   
+C5A         1  100 Hossain24 P21/c                   6.13  6.13       -4.2                   
+C6A                ~R2SCAN   p21/b11                 6.08  6.08       -1.7                   
+C6A         1      ~R2SCAN   P21/c                   6.09  6.09       -1.1                   
+C6A         1  125 Zhang22e  P21/c                   6.17  6.17       -1.5                   
+C6A         2      ~R2SCAN   Pbca                    6.07  6.07        0.2                   
+C6A         2  275 Zhang22e  Pbca                    6.18  6.18       -1.6 -x+1/2,-y+1,z+1/2 
+C8A                ~R2SCAN   p21/b11                 6.06  6.06       -6.0                   
+C8A         1      ~R2SCAN   P21/c                   6.05  6.05       -5.0                   
+C8A         1  125 Zhang22e  P21/c                   6.11  6.11       -3.2                   
+CHMA               ~R2SCAN   p21/b11                 6.04  6.04        0.0                   
+CHMA        1      ~R2SCAN   P21/c                   6.07  6.07        0.5                   
+CHMA        1  100 Hossain24 P21/c                   6.09  6.09        0.2                   
+Cs                 ~R2SCAN   p4/mmm                  6.11  6.11        0.0                   
+Cs      a          ~R2SCAN   p21/b11                 6.14  6.14       -4.4                   
+MBA     R          ~R2SCAN   p2111    340            6.21  6.21        1.1                   
+MBA     R   2      ~R2SCAN   P212121  437            6.31  6.31        2.2                   
+MBA     R   2  250 Lu20d     P212121  628            6.46  6.46        2.8 -x+1/2,-y,z+1/2   
+MBA     S          ~R2SCAN   p2111    339            6.21  6.21        1.1                   
+MBA     S   2      ~R2SCAN   P212121  439            6.32  6.32        2.2                   
+MBA     S   2  250 Lu20d     P212121  627            6.46  6.46        2.8 -x+1/2,-y,z+1/2   
+MBA     rac        ~R2SCAN   pb21m    414            6.20  6.20        4.3                   
+MBA     rac 2      ~R2SCAN   Pnma     459            6.30  6.30        4.3                   
+MBA     rac 2  250 Lu20d     Pnma     614            6.44  6.44        4.0 -x,-y,z+1/2       
+PEA                ~R2SCAN   p21/b11                 6.03  6.03        0.6                   
+PEA         1      ~R2SCAN   P-1                 87  6.00  6.02  -20   1.2                   
+PEA         1  296 Sheikh20  P-1                115  6.13  6.08   48   0.0                   
+PEA         2      ~R2SCAN   P-1                 39  6.11  6.05   61   0.2                   
+PEA         2  100 Hossain24 P-1                 39  6.13  6.08   53   0.1 y,x+1/2,-z+1/2    
+PEA         2  125 Zhang22e  P-1                 38  6.14  6.08   52   0.1 y+1/2,x,-z+1/2    
+PEA         2  150 Gao19a    P-1                 37  6.09  6.14  -53   0.0 -y+1,-x+1/2,-z+1/2
+PEA     L          ~R2SCAN   p-1                 24  6.03  6.03   -1   0.5                   
+PEA     zxx 2      ~R2SCAN   P-1                 52  6.11  6.04   68  -0.2                   
+PEA2Br             ~R2SCAN   p21/b11                 5.91  5.91        3.9                   
+PEA2Br      1      ~R2SCAN   P21/c                   5.94  5.94        4.9                   
+PEA2Br      1  293 Xu03a     P21/c                   6.06  6.06        2.9                   
+PEA4F              ~R2SCAN   p21/b11                 6.02  6.02        0.6                   
+PEA4F       1      ~R2SCAN   P21/c                   6.04  6.04        0.7                   
+PEA4F       1   90 Hossain24 P21/c                   6.08  6.08        0.9                   
+PEA4F       1  293 Mitzi01   P21/c                   6.14  6.14        1.0                   
+TEA                ~R2SCAN   p21/b11                 6.04  6.04        0.5                   
+TEA         2      ~R2SCAN   P-1                 25  6.04  6.05  -16   0.1                   
+TEA         2  120 Lin19d    P-1                 21  6.06  6.09  -24   0.0 y,x+1/2,-z+1/2    

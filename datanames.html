@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="def.css">
+<title>Dataname notations</title>
+</head>
+<body>
+<h1>Dataname notations (alphabetical order)</h1>
+
+<p>To minimize use of special symbols we denote Ao=&Aring;, deg=degree (angle),
+ iX=X^(-1), X/mol=X per molecule, dX=deviation of X in % except for angles.
+ Datatypes abbreviations: c=character, i=integer, str=string.</p>
+
+<ul>
+<li><code>[a,b,c,alpha,beta,gamma]</code> (Ao,deg) unit cell parameters (layers lie in ab-plane)</li>
+<li><code>amin,amax</code> (deg) min and max B-X-B angle</li>
+<li><code>bmin,bmax</code> (Ao) min and max inplane BX bond length</li>
+<li><code>b3</code> (Ao) average out-of-plane BX bond length</li>
+<li><code>cnf,conf</code> conformation or configuration</li>
+<li><code>d1,d2,d3,...</code> (deg) dihedral as defined by <code>ds</code> list</li>
+<li><code>dab=a-b</code> unit cell inplane asymmetry</li>
+<li><code>db</code> (mAo) B-X-B bond length asymmetry</li>
+<li><code>dbh=bmax-bmin</code> (mAo) variation of inplane BX bond lengths</li>
+<li><code>db12</code> (mAo) length difference between the two shortest orthogonal BX bonds</li>
+<li><code>dgam=gamma-90</code> (deg) absolute deviation of the inplane angle from the perfect square geometry</li>
+<li><code>dxK,dyK,zK</code> (Ao) position of cationic tail relative to (1/2,1/2,0)</li>
+<li><code>dxO,dyO,zO</code> (Ao) position of cation body relative to (1/2,1/2,0)</li>
+<li><code>g2</code> generator of the second layer</li>
+<li><code>inv,cen,rot</code> (mAo) RMSD symmetry error for inversion(-x,-y,-z), centering(x+1/2,y+1/2,z), and rotation(y,x+1/2,-z) of BX6 octahedra</li>
+<li><code>invK,cenK,rotK</code> (mAo) the same for cations</li>
+<li><code>L</code> (char) number of layers per unit cell or empty string if a single layer in open boundary conditions</li>
+<li><code>met,method</code> either DFT method or citation of the experiment by which the structure was obtained</li>
+<li><code>na</code> number of atoms in the cation</li>
+<li><code>name</code> IUPAC-consistent chemical name of a molecule</li>
+<li><code>nas=[nB,na$nK,nB,na$nK,...]</code> unit cell fragmentation information, where <code>nB</code> is the number of atoms in the inorganic layer and <code>nK</code> is number of cations per layer</li>
+<li><code>ng</code> number of elements in <code>SG</code></li>
+<li><code>nm,Z</code> number of cations in unit cell</li>
+<li><code>nxy,nz</code> number of B-atoms and number of layers per unit cell</li>
+<li><code>odev</code> (mAo) RMSD deviation from 4/mmm octahedron</li>
+<li><code>PG</code> point group</li>
+<li><code>pubchem</code> PubChem identifier</li>
+<li><code>SG</code> symmetry group</li>
+<li><code>SG0</code> canonic name of the symmetry group, i.e. in the IUCr-default setting</li>
+<li><code>T,tem</code> (K) temperature</li>
+<li><code>tK,pK</code> (deg) spherical angles defining orientaion of cationic tail</li>
+<li><code>tO,pO</code> (deg) spherical angles defining orientaion of the cation body</li>
+<li><code>Up2=|G|,maxG</code> (meV/Ao) RMS norm and maximum absolute force on atoms</li>
+<li><code>V1</code> (Ao^3) volume per atom</li>
+<li><code>x0,y0,z0</code> (mAo) displacement of B-atom from (0,0,0) position</li>
+<li><code>y1,z1</code> (mAo) displacement of X-atom from (1/2,0,0) position</li>
+<li><code>x2,z2</code> (mAo) displacement of X-atom from (0,1/2,0) position</li>
+<li><code>x3,z3</code> (mAo) displacement of X-atom from (0,0,1/2) position</li>
+</ul>
+
+</body>
+</html>

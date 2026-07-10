@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="def.css">
+<title>Filename notations</title>
+</head>
+<body>
+<h1>Filename notations</h1>
+
+<p>Crystal structure filenames have the following structure:
+ <code>modelCation-conf_method_tag1_tag2...</code>, where 'model' means
+<ul>
+<li><code>emptystring</code> external data,</li>
+<li><code>layer</code> single layer in open boundary conditions,</li>
+<li><code>cryst1</code> crystal with one layer per unit cell,</li>
+<li><code>cryst2</code> crystal with two layers per unit cell;</li>
+</ul>
+ 'Cation' is the name of the cation as listed <a href="cations.dat">here</a>;
+ 'conf' labels conformers and polymorphs;
+ 'method' is either a DFT method or citation to an article for external data;
+ 'tags' are interpreted as follows:
+<ul>
+<li><code>L2</code> canonically oriented geometry in the "double" cell,
+ that is cell containing two B-atoms (usually it is the minimal cell),</li>
+<li><code>L4</code> canonically oriented geometry in the "quadruple" cell,
+ that is cell containing four B-atoms (minimal supercell containing no direct interaction with translation images),</li>
+<li><code>L21,L41</code> same as L2,L4 but for a single layer in open boundary conditions,</li>
+<li><code>AZ</code> external data structure has been modified by A.Z. to make it consistent accross this database,</li>
+<li><code>125K,275K</code> cell measurement temperature.</li>
+</ul>
+</p>
+
+</body>
+</html>
