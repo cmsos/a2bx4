@@ -40,7 +40,7 @@ PEA         2  100 Hossain24 P-1                 39  6.13  6.08   53   0.1 y,x+1
 PEA         2  125 Zhang22e  P-1                 38  6.14  6.08   52   0.1 y+1/2,x,-z+1/2    
 PEA         2  150 Gao19a    P-1                 37  6.09  6.14  -53   0.0 -y+1,-x+1/2,-z+1/2
 PEA     L          ~R2SCAN   p-1                 24  6.03  6.03   -1   0.5                   
-PEA     zxx 2      ~R2SCAN   P-1                 52  6.11  6.04   68  -0.2                   
+PEA     z   2      ~R2SCAN   P-1                 40  6.11  6.05   59  -0.3                   
 PEA2Br             ~R2SCAN   p21/b11                 5.91  5.91        3.9                   
 PEA2Br      1      ~R2SCAN   P21/c                   5.94  5.94        4.9                   
 PEA2Br      1  293 Xu03a     P21/c                   6.06  6.06        2.9                   
