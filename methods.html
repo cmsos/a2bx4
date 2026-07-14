@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="def.css">
+<title>Computational methodology</title>
+</head>
+<body>
+<h1>Computational methodology</h1>
+
+<p>We use r2SCAN-rVV10/PAW600 as the main DFT-D method,
+ where PAW600 means PAW pseudootentials with 600 eV plane wave energy cutoff.
+ It is universally the most accurate and reliable among available scalable methods.
+ Robust method benchmarking is currently hardly possible due to lack of high quality experimental data and absence of computationally feasible higher-level theoretical approaches.
+ All plane-wave calculations are performed in VASP 6 package.
+ Because hybrid perovskites are very soft, their geometries cannot be efficiently optimized by to 1 meV/Ao by both IBRION=1,2.
+ Consequently, we set the threshold to 3 meV/Ao for selected systems such as PEA and MBA and 5 meV/Ao for the rest.
+ In these settings, the difference between R/S-MBA geometrical parameters is few percent.
+ For isolated layers the periodic box in the nonperiodic dimension is 30 Ao.
+ For MD of systems containing only heavy atoms such as Cs, Sn, I, the time step can be increased to 10 fs.
+</p>
+
+<p>For calculations of clusters we use PBE/Def2-SVP for scalable calculations
+ and PBE0/Def2-TZVP for accurate calculations as implemented in Gaussian 16 package.
+</p>
+
+<p>See also technical details common for all CMSOS projects <a href="https://cmsos.github.io/cmsos/protocols.html">here</a>.</p>
+
+</body>
+</html>
