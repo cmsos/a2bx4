@@ -1,4 +1,7 @@
-# labels=[packing,tag,formula,pubchem,comname,comment], formula is for cation, comname is for neutral, packing: L=A2SnI4 2D layers, P=perovskite ASnI3, Xn=complicated ASnIn
+# labels=[packing,name,formula,pubchem,comname,comment]
+# 'packing': L=A2BX4 2D layers, P=perovskite ABX3, Xn=complex A-B-X
+# 'name' is abbreviated name used in this work
+# 'formula' is for cation, 'comname' is for neutral molecule
 L  BC1A    C7H10N    7504     benzylamine               #BZA, phenylmethanamine
 L  BC3A    C9H14N    16259    phenylpropylamine         #PPA
 L  BC4A    C10H16N   83242    phenylbutylamine          #PBA, benzenebutanamine

@@ -1,0 +1,44 @@
+cation cnf     L  E(meV)  file
+BC1A           2   -246  cryst2BC1A_R2SCAN-RVV10paw600
+BC1A                  0  layerBC1A_R2SCAN-RVV10paw600
+C4A            2   -243  cryst2C4A_R2SCAN-RVV10paw600
+C4A                   0  layerC4A_R2SCAN-RVV10paw600
+C5A            1   -260  cryst1C5A_R2SCAN-RVV10paw600
+C5A                   0  layerC5A_R2SCAN-RVV10paw600
+C6A            1   -240  cryst1C6A_R2SCAN-RVV10paw600
+C6A            2   -210  cryst2C6A_R2SCAN-RVV10paw600
+C6A                   0  layerC6A_R2SCAN-RVV10paw600
+C8A            1   -387  cryst1C8A_R2SCAN-RVV10paw600
+C8A                   0  layerC8A_R2SCAN-RVV10paw600
+CHMA           1   -200  cryst1CHMA_R2SCAN-RVV10paw600
+CHMA                  0  layerCHMA_R2SCAN-RVV10paw600
+Cs     y       2   -271  cryst2Cs-y_R2SCAN-RVV10paw600
+Cs             2   -259  cryst2Cs_R2SCAN-RVV10paw600
+Cs     a              0  layerCs-a_R2SCAN-RVV10paw600
+Cs                   14  layerCs_R2SCAN-RVV10paw600
+MA     C4A            0  layerMA-C4A_R2SCAN-RVV10paw600
+MA     x             10  layerMA-x_R2SCAN-RVV10paw600
+MA     BC1A          12  layerMA-BC1A_R2SCAN-RVV10paw600
+MA     MBArac        14  layerMA-MBArac_R2SCAN-RVV10paw600
+MA     y             16  layerMA-y_R2SCAN-RVV10paw600
+MBA    rac     2   -326  cryst2MBA-rac_R2SCAN-RVV10paw600
+MBA    R       2   -288  cryst2MBA-R_R2SCAN-RVV10paw600
+MBA    S       2   -288  cryst2MBA-S_R2SCAN-RVV10paw600
+MBA    rac            0  layerMBA-rac_R2SCAN-RVV10paw600
+MBA    S             40  layerMBA-S_R2SCAN-RVV10paw600
+MBA    R             40  layerMBA-R_R2SCAN-RVV10paw600
+MPEA   PEA            0  layerMPEA-PEA_R2SCAN-RVV10paw600
+MPEA   MBArac       291  layerMPEA-MBArac_R2SCAN-RVV10paw600
+PEA            2   -182  cryst2PEA_R2SCAN-RVV10paw600
+PEA    z       2   -181  cryst2PEA-z_R2SCAN-RVV10paw600
+PEA    x       2   -167  cryst2PEA-x_R2SCAN-RVV10paw600
+PEA            1    -96  cryst1PEA_R2SCAN-RVV10paw600
+PEA    L              0  layerPEA-L_R2SCAN-RVV10paw600
+PEA                   0  layerPEA_R2SCAN-RVV10paw600
+PEA    y            228  layerPEA-y_R2SCAN-RVV10paw600
+PEA2Br         1   -228  cryst1PEA2Br_R2SCAN-RVV10paw600
+PEA2Br                0  layerPEA2Br_R2SCAN-RVV10paw600
+PEA4F          1   -254  cryst1PEA4F_R2SCAN-RVV10paw600
+PEA4F                 0  layerPEA4F_R2SCAN-RVV10paw600
+TEA            2   -238  cryst2TEA_R2SCAN-RVV10paw600
+TEA                   0  layerTEA_R2SCAN-RVV10paw600
