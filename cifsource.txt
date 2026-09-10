@@ -1,0 +1,22 @@
+cation   article     T    symmetry   CCDC      DOI
+BC1A     Mao16a           Pbca     1525379  10.1021/acs.chemmater.6b03054
+C4A      Zhang22e   125K  Pbca     2109464  10.1038/s41467-021-27663-0
+C4A      Zhang22e   275K  Pbca     2109463  10.1038/s41467-021-27663-0
+C5A      Hossain24        P21/c    2392245  10.1021/acs.chemmater.4c01251
+C6A      Hossain24        P21/c    2392244  10.1021/acs.chemmater.4c01251
+C6A      Zhang22e   125K  P121/c1  2109466  10.1038/s41467-021-27663-0
+C6A      Zhang22e   275K  Pbca     2109465  10.1038/s41467-021-27663-0
+C8A      Zhang22e   125K  P121/c1  2109468  10.1038/s41467-021-27663-0
+CHMA     Hossain24        P21/c    2392247  10.1021/acs.chemmater.4c01251
+MBA-R    Lu20d            P212121  1994337  10.1021/jacs.0c03899
+MBA-S    Lu20d            P212121  1994338  10.1021/jacs.0c03899
+MBA-rac  Lu20d            Pnma     1994336  10.1021/jacs.0c03899
+PEA      Gao19a           P-1      1915842  10.1021/jacs.9b06276
+PEA      Hossain24        P-1      2392249  10.1021/acs.chemmater.4c01251
+PEA      Sheikh20         P-1      1999438  10.1002/anie.202003509
+PEA      Zhang22e   125K  P-1      2109462  10.1038/s41467-021-27663-0
+PEA      Zhang22e   275K  P-1      2109461  10.1038/s41467-021-27663-0
+PEA2Br   Xu03a            P21/c     207978  10.1021/ic0261474
+PEA4F    Hossain24        P21/c    2392243  10.1021/acs.chemmater.4c01251
+PEA4F    Mitzi01          P21/c     200653  10.1021/cm010105g
+TEA      Lin19d           P-1      2057168  10.1021/acsaem.0c02451
