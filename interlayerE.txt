@@ -1,21 +1,23 @@
-cation conf  E(meV) nL  symmetry
-BC1A           246   2  Pbca
-C4A            243   2  Pbca
-C5A            260   1  P21/b11
-C6A            240   1  P21/b11
-C6A            210   2  Pbca
-C8A            387   1  P21/b11
-CHMA           200   1  P21/b11
-Cs     a       271   2  Pbca
-Cs             259   2  I4/mmm
-MBA    rac     326   2  Pnam:004
-MBA    R       288   2  P212121
-MPEA   AbSts   101   2  P-1
-MPEA   BbRtsx  149   2  P11m
-PEA            182   2  P-1
-PEA    z       181   2  P-1
-PEA    x       167   2  Pbca
-PEA             96   1  P-1
-PEA2Br         228   1  P21/b11
-PEA4F          254   1  P21/b11
-TEA            238   2  P-1
+cation conf   nL  E(meV) cz1(Ao)  SG
+BC1A           2    246   14.06  Pbca
+C4A            2    243   12.80  Pbca
+C5A            1    260   14.22  P21/b11
+C6A            1    240   15.78  P21/b11
+C6A            2    210   16.22  Pbca
+C8A            1    387   18.37  P21/b11
+CHMA           1    200   15.87  P21/b11
+MBA    rac     2    326   14.17  Pnam:004
+MBA    R       2    288   14.14  P212121
+MBA    S       2    288   14.13  P212121
+PEA            2    182   15.69  P-1
+PEA    z       2    181   15.69  P-1
+PEA            1     96   16.36  P-1
+PEA2Br         1    228   18.04  P21/b11
+PEA4F          1    254   15.91  P21/b11
+TEA            2    238   15.22  P-1
+-----------------------------------------
+Cs     a       2    271    9.42  Pbca
+Cs             2    259    9.54  I4/mmm
+MPEA   BbRtsx  2    149   16.72  P11m
+MPEA   AbSts   2    101   17.58  P-1
+PEA    x       2    167   16.15  Pbca
